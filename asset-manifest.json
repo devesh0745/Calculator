@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devesh0745/calculator.git/static/css/main.3af7a254.css",
+    "main.js": "/devesh0745/calculator.git/static/js/main.02d78534.js",
+    "index.html": "/devesh0745/calculator.git/index.html",
+    "main.3af7a254.css.map": "/devesh0745/calculator.git/static/css/main.3af7a254.css.map",
+    "main.02d78534.js.map": "/devesh0745/calculator.git/static/js/main.02d78534.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af7a254.css",
+    "static/js/main.02d78534.js"
+  ]
+}
